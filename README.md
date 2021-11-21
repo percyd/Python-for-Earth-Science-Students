@@ -1,6 +1,6 @@
 ## Python Programming for  Earth Science Students
 
-Authors: Lisa Tauxe,  percyd@ucsd.edu, Hanna Asefaw, hasefaw@ucs.dedu, 
+Authors: Lisa Tauxe,  percyd@ucsd.edu, Hanna Asefaw, hasefaw@ucs.dedu,   
 Brendan Cych, bcych@ucsd.edu, & David Percy, percyd@pdx.edu
 
 ### Licensing: 
