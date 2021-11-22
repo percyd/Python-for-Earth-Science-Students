@@ -20,7 +20,7 @@ This work is licensed under a
 
 ### Computers in Earth Science
 
-Computers are essential to all modern Earth Science research.  We use them for compiling and analyzing data, preparing illustrations like maps or data plots, writing  manuscripts, and so on.  In this class, you will learn to write computer programs with special applications useful to Earth Scientists.  We will learn Python, an object-oriented programming language, and use Jupyter notebooks to write our Python programs. We will focus on using Python to access more dynamic data, as opposed to static data
+Computers are essential to all modern Earth Science research.  We use them for compiling and analyzing data, preparing illustrations like maps or data plots, writing  manuscripts, and so on.  In this class, you will learn to write computer programs with special applications useful to Earth Scientists.  We will learn Python, an object-oriented programming language, and use Jupyter notebooks to write our Python programs. We will focus on using Python to access more dynamic data, as opposed to static data.
 
 ### Python
 
