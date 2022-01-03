@@ -18,7 +18,7 @@ This work is licensed under a
 
 
 
-### Computers in Earth Science
+### Computers in the Earth Sciences
 
 Computers are essential to all modern Earth Science research.  We use them for compiling and analyzing data, preparing illustrations like maps or data plots, writing  manuscripts, and so on.  In this class, you will learn to write computer programs with special applications useful to Earth Scientists.  We will learn Python, an object-oriented programming language, and use Jupyter notebooks to write our Python programs. We will focus on using Python to access more dynamic data, as opposed to static data.
 
@@ -48,118 +48,6 @@ To do this, you will need to discover the hidden secret of your computer, the _T
 
 Once you have launched the jupyter notebook browser, navigate to your course directory and open Lecture_01.ipynb
 
-
-### Lecture 1
-
-- Learn to find your command line interface.
-- Learn how to launch a Jupyter notebooks from the command line interface
-- Learn basic notebook anatomy.
-- Learn some basic UNIX commands 
-- Learn about the concept of **PATH**
-- Turn in your first practice problem notebook.  
-### Lecture 2
-
-- Learn  about variables
-- Learn about operations
-
-###  Lecture 3
-
-- Learn about collections of variables: data structures 
-
-- Learn about _objects_ - Learn about _methods_ which allow you to do things to _objects_
-
-### Lecture 4:
-
-- Learn more about another useful data structure, **dictionaries** and some of their **methods**
-- Introduce special Python code blocks
-- Learn about "for" loops, "while" loops and "if" blocks
-
-### Lecture 5:
-
-- Learn about functions
-- Discover the joys of modules 
-
-### Lecture 6:
-
-- get a first peek at the very useful Python packages called **NumPy** and **matplotlib**
-
-### Lecture 7:
-
-- Learn more about **NumPy** and **matplotlib**
-- Learn more about **NumPy** arrays.  
-
-
-### Lecture 8:
-
--  more about **matplotlib**:  adding notes and saving images
--  about DataFrames and Series, two new _data structures_, that are part of the **Pandas** package 
--  some basic filtering tricks with **Pandas**
--  how to read in and save data files with **Pandas**
-
-### Lecture 9
-
-- Learn how to filter data with Pandas
-- Write a program to calculate the great circle distances between two known points. 
-- Learn how to generate  formatted strings for output.
-
-### Lecture 10:
-
-- Learn about "object oriented programming" (OOP)
-- Learn how to create a "class"
-- Learn more about namespaces 
-- Learn more about copies
-
-
-### Lecture 11:
-
-- Learn about **lambda** functions
-- How to use **map( )**, **filter( )**, and  **reduce( )** 
-- Explore the joys of List, Set and dictionary comprehension
-
-
-### Lecture 12:
-
-- Tricks with pandas
-- Filtering 
-- concatentating and merging dataframes
-
-### Lecture 13:
-- Learn a few more Pandas tricks
-- Learn how to make more complicated plots with **matplotlib**
-- Learn about the composition of the sun,  solar system and Earth.
-- Learn about exceptions in python
-
-### Lecture 14:
-- Learn how to plot  histograms and cumulative distributions
-- Learn how to get lists of random numbers  
-- Learn about the topography of the Earth (hypsometric curve)
-
-### Lecture 15:
-
-- Learn some basic statisics - samples versus populations and empirical versus theorectical distributions.
-- Learn to calculate _central tendencies_, _spreads_. 
-- Learn about _significant figures_ and more about formatting output. 
-- Learn some useful functions in **NumPy** and **SciPy** for simulating distributions and calculating statistics.
-
-### Lecture 16:
-
-- Learn how to deal with bivariate data (fitting lines, curves).
-- Apply line fitting to determine the age of the Universe.  Cool.  
-
-### Lecture 17:
-
-- Learn how to use the **seaborn** package to produce beautiful plots
-- Learn about kernel density estimates
-- Learn appropriate ways of representing different types of data
-
-### Lecture 18:
-
-- start to make some basic maps using **Cartopy**. Yippee (we love maps).  
-
-
-### Lecture 19:
-
-- Learn about gridding and contouring with cartopy
 
 <!-- #region -->
 ### [Lecture 1](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_01.ipynb)
