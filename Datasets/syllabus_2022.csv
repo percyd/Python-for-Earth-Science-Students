@@ -1,32 +1,31 @@
 Lecture,Topic,Application,Date,Assignment
 1,"Intro to notebooks, file systems and paths",,Week 1,
 2,Variables and Operations,,Week 1,
-3,Data structures ,,Week 2,#1
+3,Data structures ,,Week 1,#1
 4,"Dictionaries, program loops (if, while and for)",,Week 2,
-5,functions and modules,,Week 3,
-6,NumPy and matplotlib ,seismic record,Week 3,#2
-7,NumPy arrays,,13-Apr,
-8,"Pandas, file I/O ",P-S wave arrival times,15-Apr,
-9,data wrangling with Pandas,seismic travel time plots,17-Apr,#3
-10,object oriented programming,objects and classes,20-Apr,
-11,"lambda, map, filter reduce, list comprehension",,22-Apr,
-12,Pandas filtering and exceptions,volcanic eruptions,24-Apr,#4
-13,"subplots, bar charts pie charts",elemental abundances,27-Apr,
-14,histograms and cumulative distribution functions,hypsometric curve,29-Apr,
-15,statistics 101,Univariate data,1-May,#5
-16,line and curve fitting  ,Bivariate data & Hubble plot,4-May,
-17,visualization with seaborn,seaborn,6-May,
-18,maps,spatial data; earthquake locations/ depths,8-May,Project Proposal AND  #6 
-19,gridding and contouring ,IGRF,11-May,
-20,geopandas,,13-May,
-21,rose diagrams and equal area projections,glacial striations,15-May,#7
-22,matrix math - dot and cross products,earthquake location,18-May,
-23,plotting great and small circles,bathymetry?,20-May,
-24,Machine Learning- Clustering,Orocopio Fold,22-May,#8
-,Memorial Day,,25-May,
-25,"Machine Learning- Classification, PCA",Landsat ,27-May,
-26,3D plots of points and surfaces,benioff zone,29-May,#9
-27,Time series  - periodograms,temporal data,6/1/20,
-28,Animations,Indian plate motion,6/3/20,
-,,,6/5/20,
-,Final Presentations,,6/11/20,
+5,functions and modules,,Week 2,
+6,NumPy and matplotlib ,seismic record,Week 2,#2
+7,NumPy arrays,,Week 3,
+8,"Pandas, file I/O ",P-S wave arrival times,Week 3,
+9,data wrangling with Pandas,seismic travel time plots,Week 3,#3
+10,object oriented programming,objects and classes,Week 4,
+11,"lambda, map, filter reduce, list comprehension",,Week 4,
+12,Pandas filtering and exceptions,volcanic eruptions,Week 4,#4
+13,"subplots, bar charts pie charts",elemental abundances,Week 5,
+14,histograms and cumulative distribution functions,hypsometric curve,Week 5,
+15,statistics 101,Univariate data,Week 5,#5
+16,line and curve fitting  ,Bivariate data & Hubble plot,Week 6,
+17,visualization with seaborn,seaborn,Week 6,
+18,maps,spatial data; earthquake locations/ depths,Week 6,Project Proposal AND  #6 
+19,gridding and contouring ,IGRF,Week 7,
+20,geopandas,,Week 7,
+21,rose diagrams and equal area projections,glacial striations,Week 7,#7
+22,matrix math - dot and cross products,earthquake location,Week 8,
+23,plotting great and small circles,bathymetry?,Week 8,
+24,Machine Learning- Clustering,Orocopio Fold,Week 8,#8
+25,"Machine Learning- Classification, PCA",Landsat ,Week 9,
+26,3D plots of points and surfaces,benioff zone,Week 9,#9
+,,,,
+,,,,
+,,,,
+,,,,
