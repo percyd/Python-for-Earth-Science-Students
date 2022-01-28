@@ -106,6 +106,14 @@ Once you have launched the jupyter notebook browser, navigate to your course dir
 - Write a program to calculate the great circle distances between two known points. 
 - Learn how to generate  formatted strings for output.
 
+### [Lecture 10](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_10.ipynb)
+
+-Exploring data using pandas
+
+### [Lecture 11](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_11.ipynb)
+
+-Processing data with pandas
+
 ### [Lecture 12](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_12.ipynb)
 
 - Tricks with pandas
