@@ -1,7 +1,7 @@
 ## Python for the Geosciences
 
-Authors: Lisa Tauxe,  ltauxe@ucsd.edu, Hanna Asefaw, hasefaw@ucsd.edu,   
-Brendan Cych, bcych@ucsd.edu, & David Percy, percyd@pdx.edu
+Authors: David Percy, percyd@pdx.edu, Lisa Tauxe,  ltauxe@ucsd.edu, Hanna Asefaw, hasefaw@ucsd.edu,   
+Brendan Cych, bcych@ucsd.edu
 
 ### Licensing: 
 
