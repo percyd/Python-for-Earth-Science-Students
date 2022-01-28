@@ -106,39 +106,11 @@ Once you have launched the jupyter notebook browser, navigate to your course dir
 - Write a program to calculate the great circle distances between two known points. 
 - Learn how to generate  formatted strings for output.
 
-### [Lecture 10](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_10.ipynb)
-
-- Learn about "object oriented programming" (OOP)
-- Learn how to create a "class"
-- Learn more about namespaces 
-- Learn more about copies
-
- 
-### [Lecture 11](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_11.ipynb)
-
-- Learn about **lambda** functions
-- How to use **map( )**, **filter( )**, and  **reduce( )** 
-- Explore the joys of List, Set and dictionary comprehension
-
-
 ### [Lecture 12](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_12.ipynb)
 
 - Tricks with pandas
 - Filtering 
 - concatentating and merging dataframes
-
-### [Lecture 13](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_13.ipynb)
-
-- Learn a few more Pandas tricks
-- Learn how to make more complicated plots with **matplotlib**
-- Learn about the composition of the sun,  solar system and Earth.
-- Learn about exceptions in python
-
-### [Lecture 14](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_14.ipynb)
-
-- Learn how to plot  histograms and cumulative distributions
-- Learn how to get lists of random numbers  
-- Learn about the topography of the Earth (hypsometric curve)
 
 ### [Lecture 15](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_15.ipynb)
 
@@ -147,54 +119,17 @@ Once you have launched the jupyter notebook browser, navigate to your course dir
 - Learn about _significant figures_ and more about formatting output. 
 - Learn some useful functions in **NumPy** and **SciPy** for simulating distributions and calculating statistics.
 
-### [Lecture 16](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_16.ipynb)
-
-- Learn how to deal with bivariate data (fitting lines, curves).
-- Apply line fitting to determine the age of the Universe.  Cool.  
-
 ### [Lecture 17](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_17.ipynb)
 
 - Learn how to use the **seaborn** package to produce beautiful plots
 - Learn about kernel density estimates
 - Learn appropriate ways of representing different types of data
 
-### SKIP [Lecture 18](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_18.ipynb)
-
-NB:  This lecture may not work properly in the interactive online binder environement. (it requires cartopy==0.17.0  and that is not yet available)
-
-- start to make some basic maps using **Cartopy**. Yippee (we love maps).  
-
-
-### SKIP [Lecture 19](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_19.ipynb)
-
-NB:  This lecture may not work properly in the interactive online binder environement. (it requires cartopy==0.17.0  and that is not yet available)
-
-- Learn about gridding and contouring with cartopy
-
-
 ### [Lecture 20](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_20.ipynb)
 
 - Learn about geoplot and geopandas
 - Learn a bit about coordinate systems (UTM versus WGS84, as examples)
 - Learn something about Hawaiian volcanism
-
-
-### SKIP [Lecture 21](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_21.ipynb)
-
-- We will work with directional data using rose diagrams and stereonets
-
-
-
-### SKIP [Lecture 22](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_22.ipynb)
-
-- Learn some useful tricks  about matrix math. 
-
-
-### SKIP [Lecture 23](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_23.ipynb)
-
-- Learn how to plot great and small circles on an equal area net and map projections. 
-
-
 
 ### [Lecture 24](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_24.ipynb)
 
@@ -214,19 +149,10 @@ NB:  This lecture may not work properly in the interactive online binder environ
 - Learn about 3D plots of points and surfaces
 - Show some examples with subduction zone earthquakes and isotopic systems
 
-
-
 ### [Lecture 27](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_27.ipynb)
-
 
 - Take a look at data with respect to time (time series)
 - Learn a bit about time series analysis. 
-
-### [Lecture 28](https://nbviewer.jupyter.org/github/percyd/Python-for-Earth-Science-Students/blob/master/Lecture_28.ipynb)
-
-
-- Learn how to make and display animated gifs
-
 
 <!-- #endregion -->
 
